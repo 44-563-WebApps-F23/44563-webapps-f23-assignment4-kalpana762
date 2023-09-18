@@ -1,0 +1,23 @@
+.speech {
+    font-family: "Your Chosen Font", sans-serif; /* Replace with your chosen font */
+    font-size: 16px; /* Replace with your chosen font size */
+    color: red;
+}
+
+/* Direction class for non-spoken directions */
+.direction {
+    font-family: "Different Font", sans-serif; /* Replace with a different font */
+    font-size: 14px; /* Replace with your chosen font size */
+    color: red;
+    background-color: lightgray; /* Light background color for directions */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition on hover */
+}
+
+/* Hover effect for directions */
+.direction:hover {
+    background-color: lightblue; /* Change background color on hover */
+    color: white; /* Change text color on hover */
+}
+
+
+
