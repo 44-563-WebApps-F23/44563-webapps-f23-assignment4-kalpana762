@@ -16,7 +16,12 @@
     color: white; 
 }
 
-.ENGSTRAND{
+
+.REGINA{
+    font-family: 'Times New Roman', Times, serif;
     color: red;
 }
-
+.ENGSTRAND{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blueviolet;
+}
