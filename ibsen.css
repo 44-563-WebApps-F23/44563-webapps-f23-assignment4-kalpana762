@@ -1,23 +1,22 @@
 .speech {
-    font-family: "Your Chosen Font", sans-serif; /* Replace with your chosen font */
-    font-size: 16px; /* Replace with your chosen font size */
-    color: red;
+    font-family: sans-serif; 
+    font-size: 16px; 
+    color: black;
 }
 
-/* Direction class for non-spoken directions */
 .direction {
-    font-family: "Different Font", sans-serif; /* Replace with a different font */
-    font-size: 14px; /* Replace with your chosen font size */
-    color: red;
-    background-color: lightgray; /* Light background color for directions */
-    transition: background-color 0.3s, color 0.3s; /* Smooth transition on hover */
+    font-family: serif; 
+    font-size: 14px; 
+    color: black;
+    background-color: lightgray;
 }
 
-/* Hover effect for directions */
 .direction:hover {
-    background-color: lightblue; /* Change background color on hover */
-    color: white; /* Change text color on hover */
+    background-color: lightblue; 
+    color: white; 
 }
 
-
+.ENGSTRAND{
+    color: red;
+}
 
