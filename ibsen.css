@@ -15,13 +15,50 @@
     background-color: lightblue; 
     color: white; 
 }
-
-
 .REGINA{
     font-family: 'Times New Roman', Times, serif;
     color: red;
+    font-size: 16px;
 }
 .ENGSTRAND{
     font-family: Arial, Helvetica, sans-serif;
     color:blueviolet;
+    font-size: 16px;
+
+}
+.REGINA:hover{
+      text-shadow:6px 7px 5px burlywoodg;
+      border:solid 3px blueviolet
+}
+.ENGSTRAND:hover{
+    text-shadow:6px 7px 5px burlywoodg;
+    border:solid 3px blueviolet
+}
+
+#actors{
+    margin: centre;
+    padding: 5px;
+    border: 2px solid #1b1a1a;
+    color:rgb(136, 26, 209);
+    background-color: cadetblue;
+    text-align:center;
+}
+th{
+    background-color: cadetblue;
+    color:aquamarine;
+    text-align: center;
+    padding: 20px;
+    border:3px solid cyan;
+}
+
+td{
+    border:3px rgb(205, 199, 215);
+    text-align: right;
+    padding: auto;
+}
+tr{
+   background-color:rgb(182, 192, 192);
+}
+tr:nth-child(even){
+    background-color: aquamarine;
 }
