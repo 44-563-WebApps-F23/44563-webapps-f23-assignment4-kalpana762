@@ -69,7 +69,7 @@ tr:nth-child(even){
     padding: 10px;
 }
 .navigatebar a{
-    color:blueviolet
+    color:blueviolet;
     text-decoration: none;
     display:block;
     padding:5px;
