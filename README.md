@@ -3,4 +3,4 @@
 A practice assignment for HTML with CSS
 
 
-Hosted at[local playpart](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment4-kalpana762/playpart.html)
+Hosted at[playpart page](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment4-kalpana762/playpart.html)
