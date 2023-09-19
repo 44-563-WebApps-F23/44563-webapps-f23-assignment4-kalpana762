@@ -62,3 +62,21 @@ tr{
 tr:nth-child(even){
     background-color: aquamarine;
 }
+
+.navigatebar{
+    text-align: center;
+    background-color: rgb(214, 225, 167);
+    padding: 10px;
+}
+.navigatebar a{
+    color:blueviolet
+    text-decoration: none;
+    display:block;
+    padding:5px;
+}
+
+.navigatebar a:hover{
+    background-color:rgb(218, 204, 186);
+      color:rgb(180, 63, 63);
+}
+
