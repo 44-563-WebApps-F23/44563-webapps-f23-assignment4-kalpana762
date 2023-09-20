@@ -27,12 +27,12 @@
 
 }
 .REGINA:hover{
-      text-shadow:6px 7px 5px burlywoodg;
-      border:solid 2px blueviolet
+      text-shadow:6px 7px 5px rgb(56, 7, 230);
+      border:solid 2px rgb(230, 7, 12);
 }
 .ENGSTRAND:hover{
-    text-shadow:6px 7px 5px burlywoodg;
-    border:solid 2px blueviolet
+    text-shadow:6px 7px 5px rgb(56, 7, 230);
+      border:solid 2px rgb(230, 7, 12);
 }
 
 #actors{
